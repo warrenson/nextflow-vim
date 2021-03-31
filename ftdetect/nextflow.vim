@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.nf set filetype=nextflow
+au BufNewFile,BufRead *.nf,nextflow.config set filetype=nextflow
